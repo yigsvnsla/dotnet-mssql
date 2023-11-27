@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": ".NET SERVER",
+			"path": "./server"
+		},
+		{
+			"name": "REACT/VITE CLIENT",
+			"path": "./client"
+		}
+	]
+}
